@@ -1,0 +1,30 @@
+{
+  "name": "caline",
+  "homepage": "https://github.com/brunorafaeI/calinelima",
+  "authors": [
+    "Bruno Rafael <brunorafaelap@gmail.com>"
+  ],
+  "description": "Caline Lima - Photography",
+  "main": "",
+  "keywords": [
+    "caline",
+    "photography",
+    "foto",
+    "lima",
+    "casamento",
+    "book",
+    "wedding"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
